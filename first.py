@@ -1,1 +1,1 @@
-Hello this is my first file
+print('Hello this is my first file')
